@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on [Walletalk](https://github.com/omasleek/walletalk-frontend/tree/main/walletalk)
 
-- 👨‍💻 All of my projects are available at [https://omachildaportfolio.netlify.app/projects](https://omachildaportfolio.netlify.app/projects)
 
 - 📫 How to reach me **omachilda.dev@gmail.com**
 
