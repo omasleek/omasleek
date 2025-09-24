@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/neonsleek" target="blank"><img src="https://img.shields.io/twitter/follow/neonsleek?logo=twitter&style=for-the-badge" alt="neonsleek" /></a> </p>
 
-- 🔭 I’m currently working on [Walletalk](https://github.com/omasleek/walletalk-frontend/tree/main/walletalk)
+- 🔭Hi, I’m Chioma Ogbonna, a Fullstack Developer passionate about building and scaling impactful <strong>Web2 and Web3 products</strong>. I design and develop secure, user-focused, and scalable applications using modern technologies across the stack. From crafting intuitive frontends with React/Next.js to building robust backends with Node.js/Express and integrating smart contracts with Solidity/Ethereum, I bring ideas to life end-to-end. I enjoy solving real-world problems, optimizing performance, and collaborating with teams to deliver production-ready solutions. Driven by innovation and continuous growth, I’m open to opportunities to create reliable, future-ready applications that push technology forward.
 
 
 - 📫 How to reach me **omachilda.dev@gmail.com**
