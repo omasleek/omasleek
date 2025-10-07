@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chioma Ogbonna</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F72E70&width=435&lines=Hi%2C+I'm+Chioma+Ogbonna+%5BOmachilda%5D;A+Full+stack+Software+Developer;MERN+Stack;Web3+Blockchain+Builder;A++lover+of+stunning+Designs)](https://git.io/typing-svg)
 <h3 align="center">A passionate Full-Stack developer from Africa</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omasleek" alt="omasleek" /></a> </p>
