@@ -129,6 +129,8 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omasleek&layout=compact&theme=radical" alt="omasleek's top languages"/>
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=omasleek&show_icons=true&theme=radical&count_private=true)
+
 ---
 
 ## 🌐 Connect With Me
