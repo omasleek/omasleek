@@ -121,14 +121,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omasleek&show_icons=true&theme=radical&count_private=true" alt="omasleek's github stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omasleek&theme=radical" alt="omasleek's streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omasleek&show_icons=true&count_private=true&theme=radical" alt="Chioma's GitHub stats" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omasleek&layout=compact&theme=radical" alt="omasleek's top languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omasleek&theme=radical&count_private=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omasleek&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+</p>
 ---
 
 ## 🌐 Connect With Me
