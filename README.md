@@ -121,15 +121,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omasleek&show_icons=true&theme=radical" alt="omasleek's github stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omasleek&show_icons=true&theme=radical&count_private=true" alt="omasleek's github stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omasleek&theme=radical" alt="omasleek's streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omasleek&layout=compact&theme=radical" alt="omasleek's top languages"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omasleek&layout=compact&theme=radical" alt="omasleek's top languages"/>
 </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=omasleek&show_icons=true&theme=radical&count_private=true)
 
 ---
 
